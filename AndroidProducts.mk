@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_RMX2185.mk
+    $(LOCAL_DIR)/corvus_RMX2185.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_RMX2185-user \
-    lineage_RMX2185-userdebug \
-    lineage_RMX2185-eng
+    corvus_RMX2185-user \
+    corvus_RMX2185-userdebug \
+    corvus_RMX2185-eng
